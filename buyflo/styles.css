@@ -1,0 +1,83 @@
+body{
+    background:grey ;
+    color: rgb(212, 157, 157);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  
+}
+#container{
+    display: flex;
+    justify-content: space-around;
+}
+
+#gettulip{
+    width: 180px;
+    height: 100px;
+    background-image:url("image/p1.webp") ;
+    font-size: 90px;
+    margin: 20px 20px;
+    border: 1px solid white ;
+    border-radius: 10px;
+    padding-top: 20px;
+   
+}
+#getrose{
+    width: 180px;
+    height: 100px;
+    background-image:url("image/p2.jpeg") ;
+    font-size: 90px;
+    margin: 10px 10px;
+    border: 1px solid white ;
+    border-radius: 10px;
+    padding-top: 20px;
+   
+}
+.btn{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+#tulip-btn-one{
+    width: 40px;
+    height: 40px;
+    background:none;
+    font-size:20px;
+    border: 2px solid white;
+}
+#tulip-btn-two{
+    width: 40px;
+    height: 40px;
+    background: none;
+    font-size:20px;
+    border: 2px solid white;
+}
+#tulip-btn-three{
+    width: 40px;
+    height: 40px;
+    background:none;
+    font-size:20px;
+    border: 2px solid white;
+}
+#rose-btn-one{
+    width: 40px;
+    height: 40px;
+    background:none;
+    font-size:20px;
+    border: 2px solid white; 
+}
+#rose-btn-two{
+    width: 40px;
+    height: 40px;
+    background:none;
+    font-size:20px;
+    border: 2px solid white; 
+}
+#rose-btn-three{
+    width: 40px;
+    height: 40px;
+    background:none;
+    font-size:20px;
+    border: 2px solid white; 
+}
